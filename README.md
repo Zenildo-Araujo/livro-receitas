@@ -2,4 +2,6 @@
 
 - Caldeira de galinha :chicken:
 
+- Arroz de pato :duck:
+
   ​
